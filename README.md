@@ -9,8 +9,9 @@ The simulation operates on a closed loop where agents act based on sensory input
 * **Goal:** Agents must gather resources and deposit them at their base while defending against the opposing team.
 * **Evolution:** At the end of each epoch, the population is evaluated based on a fitness function. The best "brains" are selected for crossover and mutation.
 * **Architecture:** Zero-dependency Neural Network implementation (NumPy only).
-
-![Simulation Screenshot](img/sim-overview.png)
+<div align='center'>
+   <img src="img/sim-overview.png" alt="Simulation Screenshot" width="500"/>
+</div>
 
 ## Installation
 
