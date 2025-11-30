@@ -10,6 +10,8 @@ The simulation operates on a closed loop where agents act based on sensory input
 * **Evolution:** At the end of each epoch, the population is evaluated based on a fitness function. The best "brains" are selected for crossover and mutation.
 * **Architecture:** Zero-dependency Neural Network implementation (NumPy only).
 
+![Simulation Screenshot](img/sim-overview.png)
+
 ## Installation
 
 Follow these steps to set up the environment locally.
